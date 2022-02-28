@@ -1,1 +1,2 @@
 # Dispositivos
+Aplicación Distribuida
